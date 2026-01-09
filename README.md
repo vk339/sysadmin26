@@ -23,3 +23,7 @@ Demo data consists of random subsamples of the [miRBase](https://www.mirbase.org
 
 - Markus - [iimog](https://github.com/iimog)
 - Cedric - Odjn
+- Volker - VK339
+- Luc - Luck44s
+- Yann   - [G-allow]
+- Merlin - [msebeikat](https://github.com/msebeikat)
