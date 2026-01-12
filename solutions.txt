@@ -2,4 +2,4 @@ Aufgabe 2: 603 Zeilen
 
 Aufgabe 3: 12 Sequenzen
 
-
+Aufgabe 4: kleinste Zahl - 18 / groesste Zahl - 99999
